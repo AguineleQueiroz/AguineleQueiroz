@@ -1,9 +1,13 @@
 ## I'm Aguinele Queiroz!! Welcome to my profile! 👋
 <table>
  <tr>
-  <a href="https://github.com/AguineleQueiroz">
-  <td><img align="left" padding-right="10px" src="https://github-readme-stats.vercel.app/api?username=AguineleQueiroz&show_icons=true&theme=light&include_all_commits=true&count_private=true"/></td>
-  <td><img align="left" padding-right="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguineleQueiroz&layout=compact&langs_count=7&theme=light"/></td>
+  <a href="https://github.com/aguinelequeiroz">
+  <td>
+   <img align="left" padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=aguinelequeiroz&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+   </td>
+   <td>
+   <img align="left" padding-right="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinelequeiroz&layout=compact&langs_count=7&theme=light"/>
+   </td>
   </tr>  
 </table>
 </center>
