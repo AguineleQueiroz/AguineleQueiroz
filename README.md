@@ -6,7 +6,7 @@
    <img align="left" padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=aguinelequeiroz&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
    </td>
    <td>
-   <img align="left" padding-right="0px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinelequeiroz&layout=compact&langs_count=7&theme=light"/>
+   <img align="left" padding-right="0px" heigth="10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinelequeiroz&layout=compact&langs_count=7&theme=light"/>
    </td>
   </tr>  
 </table>
