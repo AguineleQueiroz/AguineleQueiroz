@@ -7,6 +7,7 @@
    </td>
    <td>
    <img align="left" padding-right="10px" width="100%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguineleQueiroz&layout=compact&langs_count=7&theme=light"/>
+    
    </td>
   </tr>  
 </table>
