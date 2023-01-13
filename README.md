@@ -1,19 +1,4 @@
-## I'm Aguinele Queiroz!! Welcome to my profile! 👋
-<table>
- <tr>
-  <td>
-    <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AguineleQueiroz&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="AguineleQueiroz github stats" /> 
-  </td>
-  
-  <td>
-    <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguineleQueiroz&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  </td> 
- </tr>
- 
-</table>
-</center>
-
- ![Snake animation](https://github.com/AguineleQueiroz/AguineleQueiroz/blob/output/github-contribution-grid-snake.svg)
+## Olá, sou Aguinele Queiroz!! Bem vindo ao meu perfil! 👋
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="AQ-JavaScript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
