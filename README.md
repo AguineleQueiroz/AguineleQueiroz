@@ -1,7 +1,6 @@
 ## Olá, sou Aguinele Queiroz!! Bem vindo ao meu perfil! 👋
 
  <br/> :monocle_face: Estudando para ser um Desenvolvedor Front-End
- <br/> :wink: Posso te ajudar com: JavaScript, HTML, CSS, Bootstrap, WordPress e MySQL.
 
 <div style="display: inline_block"><br> 
    <img align="center" alt="AQ-Vue" height="30" width="100" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
