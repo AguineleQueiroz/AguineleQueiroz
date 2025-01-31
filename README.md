@@ -5,7 +5,7 @@
 <div style="display: inline_block"><br> 
   <img align="start" alt="AQ-laravel" height="30" width="90" src="https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="start" alt="AQ-livewire" height="30" width="100" src="https://img.shields.io/badge/Livewire-0F172A?style=for-the-badge&logo=livewire&logoColor=pink">
-  <img align="start" alt="AQ-Django" height="30" width="90" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+ <!--    <img align="start" alt="AQ-Django" height="30" width="90" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> -->
 <!--   <img align="start" alt="AQ-Node" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> -->
   <img align="start" alt="AQ-php" height="30" width="85" src="https://img.shields.io/badge/php-316192?style=for-the-badge&logo=php&logoColor=white">
   <img align="start" alt="AQ-docker" height="30" width="95" src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white">
