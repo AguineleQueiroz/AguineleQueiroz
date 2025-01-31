@@ -1,7 +1,5 @@
 ## Olá, sou Aguinele Queiroz!! Bem vindo ao meu perfil! 👋
 
- <br/> :monocle_face: Estudando para ser um Desenvolvedor de Software
-
 <div style="display: inline_block"><br> 
   <img align="start" alt="AQ-laravel" height="30" width="90" src="https://img.shields.io/badge/Laravel-D14836?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="start" alt="AQ-livewire" height="30" width="100" src="https://img.shields.io/badge/Livewire-0F172A?style=for-the-badge&logo=livewire&logoColor=pink">
