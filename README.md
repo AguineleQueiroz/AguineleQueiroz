@@ -16,6 +16,7 @@
   <img align="start" alt="AQ-css" height="30" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="start" alt="AQ-Sass" height="30" width="85" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  <img align="start" alt="AQ-mysql" height="30" width="100" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="start" alt="AQ-postgresql" height="30" width="120" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img align="start" alt="AQ-git" height="30" width="80" src="https://img.shields.io/badge/GIT-D14836?style=for-the-badge&logo=git&logoColor=white">
 </div>
  
